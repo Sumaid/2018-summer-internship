@@ -1,6 +1,6 @@
-#+TITLE: Sample Work Log
-#+AUTHOR: Intern's name
-#+DATE: [2018-04-18 Wed]
+#+TITLE: Work Log
+#+AUTHOR: Sumaid
+#+DATE: [2018-05-14 Mon]
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
